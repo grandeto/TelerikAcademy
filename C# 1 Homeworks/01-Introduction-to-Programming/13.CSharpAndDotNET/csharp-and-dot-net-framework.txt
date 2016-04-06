@@ -1,0 +1,3 @@
+﻿.NET is a framework which provides "ground" for applications which are created to use it. These application can be created using different programming languages: C# (very common), Visual Basic .NET, F#, Managed C++ and even directly in MSIL (=Microsoft Intermediate Language, its what .net applications are compiled to).
+
+C# is a programming language using which you can develop software utilizing the FCL and can target many platforms (Windows, Linux - using Mono, iOS - using Xamarin, ...)

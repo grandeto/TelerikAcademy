@@ -1,0 +1,101 @@
+﻿NetBeans IDE
+
+This is arguably the best IDE for developing desktop-enabled, mobile and web applications using languages such as Java, Ruby, and PHP, to name a few. With this IDE, you get the ability to write basic application without having to write even a single line of code. Besides this, the NetBeans IDE provides coding tips, offer code generators and other tools that help you write code in a quick and smart manner.
+
+Key features:
+
+It comes with editors, code analyzers, and converters that helps upgrade your apps according to the new Java 8 language constructs in a smooth and easy manner
+The drag-and-drop tools of the IDE enables designing graphical user interfaces for Java SE, HTML5, and other applications in a faster manner
+It provides an analysis tool to identify and fix the most common issues (or bugs) in Java code
+
+-------------------------------------------------
+
+IntelliJ IDEA
+
+This is another brilliant IDE for web, mobile and enterprise development that supports numerous languages like Java, Groovy and Scala. It offers out-of the box tools such as Spring, including Web Services, Data, Roo, Security, Integration, Batch and others for developing enterprise apps.
+
+Key features:
+
+Its productivity boosting features such as Smart Code Completion, on-the-fly Code Analysis and Advanced Refactorings which help continue smooth and swift development
+It supports agile development and one can deploy the application to the cloud from the IDE itself
+Provides Task and Context Management which integrates with context switching and bug trackers
+
+
+--------------------------------------
+
+Eclipse
+
+Written mostly in Java, Eclipse is another integrated development environment which can also be used to architect applications in numerous programing languages such as C, C++, ABAP, Ada, COBOL, Haskell, Fortran, Lasso, JavaScript, Perl, Lua, Ruby, PHP , Python and many more.
+
+Furthermore, you can install an nice collection of tools in an Eclipse desktop IDE which comprises of GUI builders and tools for reporting, charting, testing, modeling and many more. Moreover, you can utilize the Eclipse Marketplace Client to get to know more about more plugins developed by a vast community of developers.
+
+Key features:
+
+Flexible, non-intrusive and meta-data based architecture.
+Highly advanced flexibility and mapping support as it supports object-relational data type, XML and relational
+Supports object caching inclusive of cluster integration for application servers such as Oracle Fusion Middleware Server.
+Highly optimized for scalability and concurrency
+
+---------------------------------------------------------------
+
+Code::Blocks
+
+Code::BlocksIf you’re a C/C++ programmer or work on Fortran, and are searching for a suitable IDE, then “Code::Blocks” is worth a try. It is an extensible and configurable IDE that comes loaded with all the features essential for carrying out web development services using C/C++. It has a consistent look and feel, and work in the same manner across platforms (like Linux, Windows and Mac).
+
+Key features: 
+
+Can be extended using already existing or custom-built plug-ins.
+Provide support for parallel builds.
+It comes with a debugger, allowing users to debug their programs with the help of user-defined watches, thread switching and lots more.
+
+--------------------------------------------------------------------
+
+BlueJ IDE
+
+BlueJ IDEThis is another great IDE ideal for Java programming language. The main purpose behind developing BlueJ IDE is to meet educational purposes (i.e. to learn object-oriented programming concepts) and small-scale development needs. And so, if you’re a novice starting with any Java development project, then the BlueJ IDE is a good fit for you, enabling you to run using the JDK(Java Development Kit version 3.14).
+
+Key features: 
+
+It comes with a simple and easy to learn user interface.
+It boasts a flexible extension system that helps in extending the core functionality of the IDE.
+Provides support for group work, Java ME projects, and more.
+
+-----------------------------------------------------------------------
+
+Aptana Studio 3
+
+It is a comprehensive tool that mainly function as an AJAX development environment, but it is also capable of working with .Net, PHP and other programing languages. It makes use of the Eclipse flexibility and utilize it into a powerful web development engine. This IDE helps eliminate compatibility issues and testing challenges.
+
+Key features:
+
+It comes with Code Assist feature that help in displaying matching tags and graphical information regarding each element, at the time of editing HTML files.
+Comes with a fully integrated Ruby and Rails debugger.
+Help you collaborate with team members
+
+-----------------------------------------------------------------
+
+CodeLite
+
+A cross-platform and nicely designed IDE, CodeLite supports C, C++, PHP and JavaScript languages. Though it works on all major operating systems, but it is the best fit for Linux OS.
+
+Key features:
+
+Supports syntax highlighting and code completion.
+Comes shipped with two code completion engines that runs at the same time.
+Provide RAD Tool for wxWidgets.
+Supports Code Refactoring and so much more.
+
+-----------------------------------------------------
+
+ WEBSTORM
+
+WebStorm is a lightweight yet powerful IDE, perfectly equipped for complex client-side development and server-side development with Node.js.
+
+--------------------------------------------------------------------
+
+PhpStorm
+
+PhpStorm is perfect for working with Symfony, Drupal, WordPress, Zend Framework, Laravel, Magento, CakePHP, Yii, and other frameworks.
+
+
+
