@@ -1,0 +1,41 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _09Trapezoids
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double sideA = double.Parse(Console.ReadLine());
+            double sideB = double.Parse(Console.ReadLine());
+            double max = 500;
+            double min = -500;
+            
+            if (sideA > max)
+            {
+                sideA = max;
+            }
+            if (sideA < min)
+            {
+                sideA = min;
+            }
+            if (sideB > max)
+            {
+                sideB = max;
+            }
+            if (sideB < min)
+            {
+                sideB = min;
+            }
+
+            double area = (((sideA + sideB) / 2) * theHeight);
+            string result = string.Format("{0:0.0000000}", area);
+
+            Console.WriteLine(result);
+        }
+    }
+}
