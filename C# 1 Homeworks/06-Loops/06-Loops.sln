@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15CalcGCD", "15GCD\15CalcGC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16Trailing0 inN!", "16Trailing0 inN!\16Trailing0 inN!.csproj", "{FFA70692-C0A1-4F87-A631-63A3BAE4EAD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17SpiralMatrix", "17SpiralMatrix\17SpiralMatrix.csproj", "{6EC8B809-0CBC-4351-88EB-F5B36932B138}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{FFA70692-C0A1-4F87-A631-63A3BAE4EAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFA70692-C0A1-4F87-A631-63A3BAE4EAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFA70692-C0A1-4F87-A631-63A3BAE4EAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC8B809-0CBC-4351-88EB-F5B36932B138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC8B809-0CBC-4351-88EB-F5B36932B138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC8B809-0CBC-4351-88EB-F5B36932B138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC8B809-0CBC-4351-88EB-F5B36932B138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
